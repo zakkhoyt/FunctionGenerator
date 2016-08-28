@@ -4,6 +4,7 @@
 //  Created by Zakk Hoyt on 8/28/16.
 //  Copyright © 2016 Zakk Hoyt. All rights reserved.
 //
+//  A few swift function to generate sine, square, triangle, and sawtooth waves. 
 
 import Foundation
 
